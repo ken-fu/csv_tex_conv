@@ -2,7 +2,7 @@ CSV to laTeX style Converter
 ==================
   
 ## Overview
-This program converts a CSV file into laTeX format and outputs it as txt in tabular style.
+This program converts a CSV file into laTeX format and outputs it as .tex in tabular style.
   
 
 ## Requirement
