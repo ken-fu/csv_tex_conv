@@ -1,0 +1,6 @@
+*.DS_Store
+input/*
+!.gitkeep
+output/*
+!.gitkeep
+*__pycache__
