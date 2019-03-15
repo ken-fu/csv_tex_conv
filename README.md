@@ -14,4 +14,4 @@ Input data is copied into ./input, and output data is output in ./output.
   
 
 ## Author
-ken-f
+ken
